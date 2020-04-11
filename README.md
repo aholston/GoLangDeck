@@ -1,5 +1,3 @@
-# GoLandDeck
+# GoLangDeck
 Card deck built in Go
 
-
-I spelt "GoLang" wrong lol
